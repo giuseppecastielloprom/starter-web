@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 commit but not push
 
 ## How to continue
+now add but not commit
+now modified only
