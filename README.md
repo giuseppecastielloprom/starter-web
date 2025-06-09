@@ -18,3 +18,4 @@ steps on how to contribute
 
 ## Copyright
 something
+ALL rights reserved
