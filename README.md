@@ -12,3 +12,6 @@ commit but not push
 ## How to continue
 now add but not commit
 now modified only
+
+## Copyright
+something
